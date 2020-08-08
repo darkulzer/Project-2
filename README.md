@@ -15,9 +15,9 @@ https://www.kaggle.com/nickhould/craft-cans
  - Averaged columns
  - Counted values
  - LIKE function using wildcards ‘%’
--Merged dataframes in order to reduce JOIN queries in SQL
--Exported new cleaned dataframes to CSV files
--Created Results table? 
+- Merged dataframes in order to reduce JOIN queries in SQL
+- Exported new cleaned dataframes to CSV files
+- Created Results table? 
 
 ### Final databases, tables/collections
 
