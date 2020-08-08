@@ -1,7 +1,6 @@
 # Project-2
-ETL project
+ETL project (Extract, Transform, Load)
 
-Extract, Transform, Load
 ## Project Report
 
 ### The Original Data Sources
