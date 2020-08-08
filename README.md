@@ -8,10 +8,10 @@ https://www.kaggle.com/nickhould/craft-cans
 
 Required Data Cleaning and Transformation
 
--Read CSV to Jupyter Notebook using Pandas in order to extract data and create two dataframes
--Renamed columns in order to merge and set as index, removed unnecessary columns
--Altered table in order to display proper values in ‘abv’, identified the need to change INT to REAL in ‘abv’ column. ALTER TABLE in order to complete this task. Also, clear all data in table prior to change, change, and then reload data in order to accommodate new change. 
--Initially, used INNER JOINS to query data in order to aggregate 
+- Read CSV to Jupyter Notebook using Pandas in order to extract data and create two dataframes
+- Renamed columns in order to merge and set as index, removed unnecessary columns
+- Altered table in order to display proper values in ‘abv’, identified the need to change INT to REAL in ‘abv’ column. ALTER TABLE in order to complete this task. Also, clear all data in table prior to change, change, and then reload data in order to accommodate new change. 
+- Initially, used INNER JOINS to query data in order to aggregate 
  - Averaged columns
  - Counted values
  - LIKE function using wildcards ‘%’
